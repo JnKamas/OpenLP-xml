@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.1.6" modifiedIn="OpenLP 2.1.6" modifiedDate="2017-03-01T20:47:44">
+  <properties>
+    <titles>
+      <title>001 Ó, prekrásna Hviezda ranná</title>
+    </titles>
+    <authors>
+      <author>Advent</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                                 1.<br/>Ó, prekrásna Hviezda ranná, <br/>ktorá si nám z neba daná,<br/>vrúcne, Panna, buď vítaná!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                                 1.<br/>Božieho tys` výkvet diela,<br/>k tebe poslal Gabriela<br/>sám Boh, svojho archanjela.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                                 1.<br/>Počneš Syna premilého,<br/>Bohom Otcom nám daného,<br/>Spasiteľa čakaného.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                                 1.<br/>Ako dcéra Stvoriteľa<br/>Matkou budeš  Spasiteľa <br/>a Nevestou Tešiteľa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.                                                 1.<br/>Trojici buď svätej sláva,<br/>Márii česť nech sa vzdáva,<br/>že sa Božou Matkou stáva.</lines>
+    </verse>
+  </lyrics>
+</song>
